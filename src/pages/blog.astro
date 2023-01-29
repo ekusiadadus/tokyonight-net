@@ -1,0 +1,25 @@
+---
+import "../styles/global.css";
+import Navigation from "../components/Navigation.astro";
+import BlogPost from "../components/BlogPost.astro";
+import Layout from "../layouts/Layout.astro";
+const allPosts = await Astro.glob("../pages/posts/*.md");
+---
+
+<Layout>
+  <ul class="post-card">
+    {allPosts.map((post) => <BlogPost post={post} />)}
+  </ul>
+
+  <style>
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    .post-card {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-gap: 1rem;
+    }
+  </style>
+</Layout>
