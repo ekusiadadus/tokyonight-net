@@ -1,0 +1,17 @@
+---
+const { url, name, icon } = Astro.props;
+---
+
+<a href={url} target="_blank" rel="noopener noreferrer">
+  {name} -
+  <img src={icon} alt={name} class="sns-icon" />
+</a>
+
+<style>
+  .sns-icon {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-left: 4px;
+  }
+</style>
