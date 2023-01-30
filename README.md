@@ -4,7 +4,6 @@ YouTube で公開している Astro のチュートリアル動画のソース�
 
 ## Astro の初期化とサイトの公開編
 
-https://www.youtube.com/watch?v=c1ohevLaas0
 [![【#1 Astro】爆速でWebサイトを無料で公開して稼ぐ方法 #astro](https://i9.ytimg.com/vi_webp/c1ohevLaas0/mqdefault.webp?v=63d6eeed&sqp=COyD3Z4G&rs=AOn4CLD5ni-pmnUe4Z0T1Ki3_TpkQemPRQ)](https://www.youtube.com/watch?v=c1ohevLaas0)
 
 ## Astro でブログサイトを作っていく編
