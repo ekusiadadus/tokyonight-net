@@ -2,9 +2,20 @@
 
 YouTube で公開している Astro のチュートリアル動画のソースコードです。
 
-1. https://www.youtube.com/watch?v=c1ohevLaas0
-2. https://www.youtube.com/watch?v=_KBd8H19s0c
-3. https://www.youtube.com/watch?v=FncGm2TKKCY
+## Astro の初期化とサイトの公開編
+
+https://www.youtube.com/watch?v=c1ohevLaas0
+[![【#1 Astro】爆速でWebサイトを無料で公開して稼ぐ方法 #astro](https://i9.ytimg.com/vi_webp/c1ohevLaas0/mqdefault.webp?v=63d6eeed&sqp=COyD3Z4G&rs=AOn4CLD5ni-pmnUe4Z0T1Ki3_TpkQemPRQ)](https://www.youtube.com/watch?v=c1ohevLaas0)
+
+## Astro でブログサイトを作っていく編
+
+[![【#2 Astro】爆速でWebサイトを無料で公開して稼ぐ方法 #astro](https://i9.ytimg.com/vi/_KBd8H19s0c/mqdefault.jpg?v=63d6efb6&sqp=COyD3Z4G&rs=AOn4CLC6y4HirjYGABSZGXp_YHIHoBwNQA)](https://www.youtube.com/watch?v=_KBd8H19s0c)
+
+## Astro で広告を貼ってみる+Google AdSense で収益化する編
+
+[![【#1 Astro】爆速でWebサイトを無料で公開して稼ぐ方法 #astro](https://i9.ytimg.com/vi/FncGm2TKKCY/mqdefault.jpg?v=63d6f01f&sqp=COyD3Z4G&rs=AOn4CLCW23OadJJW0auyyffQuTaex-YXOw)](https://www.youtube.com/watch?v=FncGm2TKKCY)
+
+## 概要
 
 Astro, GitHub, Netlify を利用して無料でサイトを公開し、広告を貼るまで
 
