@@ -1,3 +1,22 @@
+# Astro 無料で爆速サイトを作成する
+
+YouTube で公開している Astro のチュートリアル動画のソースコードです。
+
+1. https://www.youtube.com/watch?v=c1ohevLaas0
+2. https://www.youtube.com/watch?v=_KBd8H19s0c
+3. https://www.youtube.com/watch?v=FncGm2TKKCY
+
+Astro, GitHub, Netlify を利用して無料でサイトを公開し、広告を貼るまで
+
+作るサイト
+https://tokyonight.net/
+
+チュートリアルサイト
+https://docs.astro.build/ja/tutorial/0-introduction/
+
+GitHub
+https://github.com/ekusiadadus/tokyonight-net
+
 # Astro Starter Kit: Basics
 
 ```
@@ -10,7 +29,6 @@ npm create astro@latest -- --template basics
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
 ![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
 
 ## 🚀 Project Structure
 
