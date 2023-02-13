@@ -2,6 +2,8 @@
 
 YouTube で公開している Astro のチュートリアル動画のソースコードです。
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7fdd4e84-3b6f-4b8b-aa67-c785976f9a1f/deploy-status)](https://app.netlify.com/sites/astonishing-sunburst-7d9cb2/deploys)
+
 ## Astro の初期化とサイトの公開編
 
 - [x] Astro のプロジェクトを作成する
@@ -40,7 +42,6 @@ GitHub
 https://github.com/ekusiadadus/tokyonight-net
 
 ![image](https://user-images.githubusercontent.com/70436490/215385956-b760d75d-c0b5-4a5c-8e08-5d4134fced3c.png)
-
 
 # Astro Starter Kit: Basics
 
